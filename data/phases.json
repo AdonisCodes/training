@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Foundation & durability",
+    "start": "2026-10-05",
+    "end": "2026-11-04",
+    "source_week_start": 1,
+    "source_week_end": 5,
+    "notes": "Completed block. Week numbers in the source file restart at 1 when Base begins."
+  },
+  {
+    "name": "Base",
+    "start": "2026-11-05",
+    "end": "2027-01-03",
+    "source_week_start": 1,
+    "source_week_end": 9,
+    "notes": "Current phase as of 11 Nov 2026. Weekday pattern: 30 min gym A\u2013D plus endurance; Wednesday is a gym rest day (endurance only). No weekday swims. Weekend run cap of 60 minutes per day from 14 Nov 2026, except races/tests."
+  },
+  {
+    "name": "Build 1",
+    "start": "2027-01-04",
+    "end": "2027-03-14",
+    "source_week_start": 10,
+    "source_week_end": 19,
+    "notes": null
+  },
+  {
+    "name": "Build 2 / 70.3-specific",
+    "start": "2027-03-15",
+    "end": "2027-05-09",
+    "source_week_start": 20,
+    "source_week_end": 27,
+    "notes": null
+  },
+  {
+    "name": "Peak + Miami",
+    "start": "2027-05-10",
+    "end": "2027-05-22",
+    "source_week_start": 28,
+    "source_week_end": 29,
+    "notes": "Includes the informal Miami half around 18 May 2027. Miami travel week is a lighter week."
+  },
+  {
+    "name": "Taper",
+    "start": "2027-05-23",
+    "end": "2027-06-06",
+    "source_week_start": 29,
+    "source_week_end": 31,
+    "notes": "Taper starts Sunday 23 May 2027 and runs through IRONMAN 70.3 Durban on 6 Jun 2027."
+  },
+  {
+    "name": "Post-Durban recovery",
+    "start": "2027-06-10",
+    "end": "2027-06-20",
+    "source_week_start": 36,
+    "source_week_end": 37,
+    "notes": "10\u201320 Jun 2027, no gym."
+  },
+  {
+    "name": "Marathon endurance build",
+    "start": "2027-06-21",
+    "end": "2027-12-26",
+    "source_week_start": 38,
+    "source_week_end": 64,
+    "notes": "Build toward the first marathon on 22 Dec 2027. This is not a 2028 full Ironman plan. The written plan ends 26 Dec 2027."
+  }
+]

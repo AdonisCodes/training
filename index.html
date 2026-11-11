@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Simon Ferns — Training</title>
+  <meta name="description" content="Simon Ferns's training plan: IRONMAN 70.3 Durban (6 Jun 2027) and a first marathon (22 Dec 2027). Weekly plan, phases, races, predictions and gym log.">
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏊</text></svg>">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <div>
+        <h1>Simon Ferns — Training</h1>
+        <p class="tagline">Road to IRONMAN 70.3 Durban · Sun 6 Jun 2027 — then a first marathon · Wed 22 Dec 2027</p>
+      </div>
+    </div>
+    <nav class="tabs wrap" aria-label="Sections">
+      <a href="#overview" data-tab="overview">Overview</a>
+      <a href="#plan" data-tab="plan">Plan</a>
+      <a href="#phases" data-tab="phases">Phases</a>
+      <a href="#races" data-tab="races">Races &amp; tests</a>
+      <a href="#predictions" data-tab="predictions">Predictions</a>
+      <a href="#gym" data-tab="gym">Gym log</a>
+    </nav>
+  </header>
+
+  <main class="wrap">
+    <noscript><p class="card">This site needs JavaScript to load the plan data.</p></noscript>
+    <div id="load-error" class="card error" hidden></div>
+
+    <section id="panel-overview" class="panel" hidden>
+      <div id="overview-cards" class="card-grid"></div>
+      <div id="overview-today"></div>
+      <div class="card chart-card">
+        <h2>Planned hours per week</h2>
+        <p class="muted" id="hours-chart-note"></p>
+        <div class="chart-box tall"><canvas id="hours-chart"></canvas></div>
+        <p class="footnote">Monday-start weeks, recomputed from the session plan. Hours include gym, race and test days. Background bands show the training phase.</p>
+      </div>
+    </section>
+
+    <section id="panel-plan" class="panel" hidden>
+      <div class="card">
+        <div class="plan-controls">
+          <div class="seg" role="tablist" aria-label="Plan view">
+            <button id="view-week" class="seg-btn active">By week</button>
+            <button id="view-month" class="seg-btn">By month</button>
+          </div>
+          <div class="nav-controls">
+            <button id="plan-prev" class="btn" aria-label="Previous">&larr;</button>
+            <select id="plan-select" aria-label="Jump to"></select>
+            <button id="plan-next" class="btn" aria-label="Next">&rarr;</button>
+            <button id="plan-today" class="btn">Current</button>
+          </div>
+        </div>
+      </div>
+      <div id="plan-body"></div>
+    </section>
+
+    <section id="panel-phases" class="panel" hidden>
+      <p class="lead">The plan runs from Mon 5 Oct 2026 to Sun 26 Dec 2027 in eight phases. Week numbers in the plan source restart at 1 when Base begins on 5 Nov 2026, so weeks are always shown with their phase.</p>
+      <div id="phases-list"></div>
+    </section>
+
+    <section id="panel-races" class="panel" hidden>
+      <p class="lead">Goal races, training races and solo tests on the plan. Nothing beyond the first marathon in December 2027 is planned.</p>
+      <div id="races-list"></div>
+    </section>
+
+    <section id="panel-predictions" class="panel" hidden>
+      <div id="predictions-body"></div>
+    </section>
+
+    <section id="panel-gym" class="panel" hidden>
+      <div id="gym-body"></div>
+    </section>
+  </main>
+
+  <footer class="wrap footnote">
+    <p>All dates and "today" use Africa/Johannesburg time. Predictions are refreshed about once a week from the data files in this repository.</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js" defer></script>
+  <script src="assets/app.js" defer></script>
+</body>
+</html>
