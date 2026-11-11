@@ -39,4 +39,8 @@ python3 -m http.server 8000
 
 ## Deployment
 
-GitHub Pages deploys from `main` (site root) via [`.github/workflows/pages.yml`](.github/workflows/pages.yml), which also enables Pages automatically on its first run after merge.
+The site is served from the **`main` branch, site root** (there is a `.nojekyll` file so Pages does not run Jekyll).
+
+**One-time enable (repo admin):** GitHub → **Settings → Pages → Build and deployment** → Source **Deploy from a branch** → Branch **`main`** / folder **`/` (root)** → Save. After that, https://adoniscodes.github.io/training/ goes live (usually within a minute or two).
+
+The first Actions attempt after merge could not create the Pages site (`Resource not accessible by integration`), so this Settings step is required once.
