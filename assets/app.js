@@ -301,8 +301,16 @@
     var weeks = state.weeks.filter(function (w) { return w.totalMin > 0; });
     var total = 0;
     weeks.forEach(function (w) { total += w.totalMin; });
-    note.textContent = "Full plan, " + fmtDate(DATA.site.plan_start) + " to " + fmtDate(DATA.site.plan_end) +
-      " \u00b7 " + fmtHours(total / 60) + " planned in total.";
+    // Meta check figure: 553.3 h from 5 Nov 2026–6 Jun 2027 (Durban cycle); full plan is larger.
+    var durbanH = 0;
+    weeks.forEach(function (w) {
+      w.sessions.forEach(function (s) {
+        if (s.date >= "2026-11-05" && s.date <= "2027-06-06") durbanH += s.duration_min;
+      });
+    });
+    note.textContent = "Full plan " + fmtDate(DATA.site.plan_start) + "–" + fmtDate(DATA.site.plan_end) +
+      " \u00b7 " + fmtHours(total / 60) + " total. Of that, " + fmtHours(durbanH / 60) +
+      " falls between 5 Nov 2026 and race day (6 Jun 2027).";
 
     if (typeof Chart === "undefined") {
       note.textContent += " (Chart could not be loaded.)";
