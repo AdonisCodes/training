@@ -1,0 +1,85 @@
+[
+  {
+    "date": "2026-11-28",
+    "name": "Sprint triathlon test",
+    "kind": "test",
+    "priority": "test",
+    "location": null,
+    "format": {
+      "swim_m": 750,
+      "bike_km": 20,
+      "run_km": 5
+    },
+    "notes": "Solo sprint triathlon test."
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Treadmill half marathon",
+    "kind": "test",
+    "priority": "test",
+    "location": null,
+    "format": {
+      "run_km": 21.1
+    },
+    "notes": "Solo treadmill half marathon test (21.1 km)."
+  },
+  {
+    "date": "2027-01-31",
+    "name": "Metric half Ironman test",
+    "kind": "test",
+    "priority": "test",
+    "location": null,
+    "format": {
+      "swim_km": 1.2,
+      "bike_km": 56,
+      "run_km": 13.1
+    },
+    "notes": "Solo metric half Ironman time trial, not a sanctioned race."
+  },
+  {
+    "date": "2027-03-14",
+    "name": "Sasolburg half marathon",
+    "kind": "race",
+    "priority": "training-race",
+    "location": "Sasolburg",
+    "format": {
+      "run_km": 21.1
+    },
+    "notes": "Date is approximate (~14 Mar 2027). Kept as a training race."
+  },
+  {
+    "date": "2027-05-18",
+    "name": "Miami half marathon (informal)",
+    "kind": "race",
+    "priority": "training-race",
+    "location": "Miami",
+    "format": {
+      "run_km": 21.1
+    },
+    "notes": "Informal training race, target about 2:30. Date is around 18 May 2027."
+  },
+  {
+    "date": "2027-06-06",
+    "name": "IRONMAN 70.3 Durban",
+    "kind": "race",
+    "priority": "A-race",
+    "location": "Durban",
+    "format": {
+      "swim_km": 1.9,
+      "bike_km": 90,
+      "run_km": 21.1
+    },
+    "notes": "Goal race. Travel 3\u20139 Jun 2027. Cutoffs: swim 1h10, usual swim+T1+bike ~5h30, finish 8h30."
+  },
+  {
+    "date": "2027-12-22",
+    "name": "First marathon",
+    "kind": "race",
+    "priority": "A-race",
+    "location": null,
+    "format": {
+      "run_km": 42.2
+    },
+    "notes": "First marathon, planned for Wed 22 Dec 2027."
+  }
+]

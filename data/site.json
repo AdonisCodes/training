@@ -1,0 +1,16 @@
+{
+  "athlete": "Simon Ferns",
+  "site_title": "Simon Ferns — Training",
+  "timezone": "Africa/Johannesburg",
+  "plan_start": "2026-10-05",
+  "plan_end": "2027-12-26",
+  "goal_race": {
+    "name": "IRONMAN 70.3 Durban",
+    "date": "2027-06-06"
+  },
+  "second_goal": {
+    "name": "First marathon",
+    "date": "2027-12-22"
+  },
+  "week_numbering_note": "Week numbers in the plan source restart at 1 when the Base phase begins on 5 Nov 2026, so weeks are always shown together with their phase."
+}
