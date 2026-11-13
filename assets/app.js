@@ -218,6 +218,94 @@
     return '<span class="badge ' + sport.toLowerCase() + '">' + esc(sport) + "</span>";
   }
 
+  /* ----- workout profile graph (runs and rides) ----- */
+
+  var ZONE_COLORS = { 1: "#8da7bd", 2: "#3b78c3", 3: "#4f9d55", 4: "#ef8e2e", 5: "#d23b3b" };
+  var ZONE_HEIGHTS = { 1: 0.3, 2: 0.46, 3: 0.62, 4: 0.8, 5: 1 };
+
+  // One item of a segments chip: "10' Z1" (minutes), '20" Z5' (seconds) or "3km Z3" (distance).
+  function parseSegItem(txt) {
+    txt = txt.replace(/\s*"[^"]*"\s*$/, "").trim(); // drop trailing quoted label, e.g. 3km Z3 "Final 3 km Z3"
+    var m = txt.match(/^(\d+(?:\.\d+)?)'\s*Z([1-5])$/);
+    if (m) return { min: +m[1], zone: +m[2] };
+    m = txt.match(/^(\d+(?:\.\d+)?)"\s*Z([1-5])$/);
+    if (m) return { min: +m[1] / 60, zone: +m[2] };
+    m = txt.match(/^(\d+(?:\.\d+)?)\s*km\s*Z([1-5])$/);
+    if (m) return { km: +m[1], zone: +m[2] };
+    return null;
+  }
+
+  // Parse a whole segments string, expanding repeats like "6×(20\" Z5 / 1' Z1)"
+  // into individual blocks. Returns null when anything is unrecognised
+  // (e.g. swim segments), so no graph is drawn for those.
+  function parseSegments(str) {
+    var parts = String(str).split("|");
+    var out = [];
+    for (var i = 0; i < parts.length; i++) {
+      var p = parts[i].trim();
+      if (!p) continue;
+      var rep = p.match(/^(\d+)\s*[×x]\s*\((.+)\)$/);
+      if (rep) {
+        var items = rep[2].split("/").map(function (t) { return parseSegItem(t); });
+        if (items.some(function (it) { return !it; })) return null;
+        for (var r = 0; r < +rep[1]; r++) {
+          items.forEach(function (it) { out.push({ min: it.min, km: it.km, zone: it.zone }); });
+        }
+      } else {
+        var it = parseSegItem(p);
+        if (!it) return null;
+        out.push(it);
+      }
+    }
+    return out.length ? out : null;
+  }
+
+  function segGraphLabel(g) {
+    var t;
+    if (g.km != null) t = g.km + " km";
+    else if (g.min < 1) t = Math.round(g.min * 60) + " sec";
+    else t = fmtDur(g.min);
+    return t + " Z" + g.zone;
+  }
+
+  function zoneGraphHTML(s) {
+    if ((s.sport !== "Run" && s.sport !== "Bike") || !s.segments) return "";
+    var segs = parseSegments(s.segments);
+    if (!segs) return "";
+
+    // Distance-based blocks: spread the session time not covered by timed blocks
+    // across them in proportion to distance, so widths still mean time.
+    var timedMin = 0, distKm = 0;
+    segs.forEach(function (g) { if (g.km != null) distKm += g.km; else timedMin += g.min; });
+    if (distKm > 0) {
+      var left = (s.duration_min || 0) - timedMin;
+      var minPerKm = left > 0 ? left / distKm : (s.sport === "Run" ? 7 : 2);
+      segs.forEach(function (g) { if (g.km != null) g.min = g.km * minPerKm; });
+    }
+    var total = 0;
+    segs.forEach(function (g) { total += g.min; });
+    if (!(total > 0)) return "";
+
+    var W = 100, H = 40, GAP = 0.35;
+    // Floor very short blocks (e.g. 20-sec strides) so they stay visible.
+    var weights = segs.map(function (g) { return Math.max(g.min, total * 0.012); });
+    var wSum = 0;
+    weights.forEach(function (w) { wSum += w; });
+    var avail = W - GAP * (segs.length - 1);
+    var x = 0, rects = "";
+    segs.forEach(function (g, i) {
+      var w = (weights[i] / wSum) * avail;
+      var h = ZONE_HEIGHTS[g.zone] * H;
+      rects += '<rect x="' + x.toFixed(3) + '" y="' + (H - h).toFixed(2) + '" width="' + w.toFixed(3) +
+        '" height="' + h.toFixed(2) + '" fill="' + ZONE_COLORS[g.zone] + '"><title>' + esc(segGraphLabel(g)) +
+        "</title></rect>";
+      x += w + GAP;
+    });
+    return '<div class="zone-graph-wrap"><svg class="zone-graph" viewBox="0 0 ' + W + " " + H +
+      '" preserveAspectRatio="none" role="img" aria-label="Workout profile by heart-rate zone: ' +
+      esc(segs.map(segGraphLabel).join(", ")) + '">' + rects + "</svg></div>";
+  }
+
   function sessionHTML(s, opts) {
     opts = opts || {};
     var meta = [fmtDur(s.duration_min)];
@@ -227,6 +315,7 @@
       '<span class="session-title">' + esc(s.title) + "</span>" +
       '<span class="session-meta">' + meta.join(" \u00b7 ") + "</span></div>";
     if (s.segments) h += '<div class="segments">' + esc(s.segments) + "</div>";
+    h += zoneGraphHTML(s);
     if (s.description && s.description !== s.title) {
       h += "<details" + (opts.openDetails ? " open" : "") + "><summary>Details</summary><p>" + esc(s.description) + "</p></details>";
     }
