@@ -39,8 +39,6 @@ python3 -m http.server 8000
 
 ## Deployment
 
-The site is served from the **`main` branch, site root** (there is a `.nojekyll` file so Pages does not run Jekyll).
+GitHub Pages is published by [`.github/workflows/pages.yml`](.github/workflows/pages.yml) on every push to `main` (and via **Actions → Deploy GitHub Pages → Run workflow**).
 
-**One-time enable (repo admin):** GitHub → **Settings → Pages → Build and deployment** → Source **Deploy from a branch** → Branch **`main`** / folder **`/` (root)** → Save. After that, https://adoniscodes.github.io/training/ goes live (usually within a minute or two).
-
-The first Actions attempt after merge could not create the Pages site (`Resource not accessible by integration`), so this Settings step is required once.
+The site content lives at the repo root (with `.nojekyll` so Jekyll is skipped). Pages source must stay set to **GitHub Actions**.
