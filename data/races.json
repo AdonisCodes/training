@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-11-28",
+    "date": "2026-11-26",
     "name": "Sprint triathlon test",
     "kind": "test",
     "priority": "test",
@@ -10,7 +10,7 @@
       "bike_km": 20,
       "run_km": 5
     },
-    "notes": "Solo sprint triathlon test."
+    "notes": "Solo sprint triathlon test, moved to Thu 26 Nov 2026. Swim is 84 lengths of a 9 m pool (756 m), effort E1/E2."
   },
   {
     "date": "2026-12-25",
@@ -69,7 +69,7 @@
       "bike_km": 90,
       "run_km": 21.1
     },
-    "notes": "Goal race. Travel 3\u20139 Jun 2027. Cutoffs: swim 1h10, usual swim+T1+bike ~5h30, finish 8h30."
+    "notes": "Goal race. Travel 3–9 Jun 2027. Cutoffs: swim 1h10, usual swim+T1+bike ~5h30, finish 8h30."
   },
   {
     "date": "2027-12-22",
