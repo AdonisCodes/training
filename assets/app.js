@@ -390,7 +390,7 @@
     var weeks = state.weeks.filter(function (w) { return w.totalMin > 0; });
     var total = 0;
     weeks.forEach(function (w) { total += w.totalMin; });
-    // Meta check figure: 553.3 h from 5 Nov 2026–6 Jun 2027 (Durban cycle); full plan is larger.
+    // Meta check figure: 575.9 h from 5 Nov 2026–6 Jun 2027 (Durban cycle); full plan is larger.
     var durbanH = 0;
     weeks.forEach(function (w) {
       w.sessions.forEach(function (s) {
