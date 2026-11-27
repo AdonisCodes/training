@@ -228,7 +228,7 @@ date,day,week,phase,sport,title,duration_min,distance_km,description,segments,sl
 2027-01-04,Mon,10,Build 1,Bike,MyWhoosh ramp FTP test,25,,"Indoor MyWhoosh ramp FTP test, 25 min including warm-up and cool-down. Easy Z1 warm-up, then the MyWhoosh ramp (power rises each minute until you cannot hold it; the stepped zones are a guide, stop at failure). Easy Z1 spin-down after. Do this before the hour of Z1 spinning. If the FTP comes out high and later Z2 rides feel too hard, knock it down about 5%.",8' Z1 | 3' Z2 | 3' Z3 | 3' Z4 | 3' Z5 | 5' Z1,2
 2027-01-04,Mon,10,Build 1,Bike,Tacx Z1 spin,60,,"Easy Zone 1 spin after the MyWhoosh ramp test, staying under 133 bpm (max HR 205), even if that means only 15-16 km/h. This replaces the usual Monday bike ride.",60' Z1,3
 2027-01-05,Tue,10,Build 1,Gym,Gym Day B full-body hypertrophy,30,,Gym Day B full-body hypertrophy,30' Z1,1
-2027-01-05,Tue,10,Build 1,Run,Run 90 min Z2 incl. 6x20 s strides,90,,Run 90 min Z2 incl. 6x20 s strides,10' Z1 | 75' Z2 | 5' Z1,2
+2027-01-05,Tue,10,Build 1,Run,Run 95 min Z2 incl. 6x20 s strides,95,,"Long-run build toward 2:00 for Miami (2:30 target) and the IRONMAN 70.3 Durban run. 95 min easy Z2, conversational (run-walk ok), with 6x20 s relaxed strides in the last 20 min.",10' Z1 | 80' Z2 | 5' Z1,2
 2027-01-05,Tue,10,Build 1,Bike,Tacx Z1 spin,30,,Tacx Z1 spin,30' Z1,3
 2027-01-06,Wed,10,Build 1,Bike,"BRICK: Tacx 90 min, 3x15 min Z3 race effort",90,,"BRICK: Tacx 90 min, 3x15 min Z3 race effort",10' Z1 | 3×(15' Z3 / 7' Z1) | 21' Z1,1
 2027-01-06,Wed,10,Build 1,Run,"Brick run 60 min: 15 min Z3 off bike, 45 Z1-Z2",60,,"Brick run 60 min: 15 min Z3 off bike, 45 Z1-Z2",10' Z1 | 45' Z2 | 5' Z1,2
@@ -236,7 +236,7 @@ date,day,week,phase,sport,title,duration_min,distance_km,description,segments,sl
 2027-01-07,Thu,10,Build 1,Bike,Tacx 75 min: 4x8 min Z4 (sweet spot) / 4 min easy,75,,Tacx 75 min: 4x8 min Z4 (sweet spot) / 4 min easy,10' Z1 | 4×(8' Z4 / 4' Z1) | 21' Z1,2
 2027-01-07,Thu,10,Build 1,Run,Run 45 min Z2,45,,Run 45 min Z2,10' Z1 | 30' Z2 | 5' Z1,3
 2027-01-08,Fri,10,Build 1,Gym,Gym Day D full-body hypertrophy,30,,Gym Day D full-body hypertrophy,30' Z1,1
-2027-01-08,Fri,10,Build 1,Run,Run 60 min Z2 progression (last 10 low Z3),60,,Run 60 min Z2 progression (last 10 low Z3),10' Z1 | 45' Z2 | 5' Z1,2
+2027-01-08,Fri,10,Build 1,Run,Run 55 min Z2 progression (last 10 low Z3),55,,Run 55 min Z2 progression (last 10 low Z3),10' Z1 | 40' Z2 | 5' Z1,2
 2027-01-08,Fri,10,Build 1,Bike,Tacx Z1 spin,60,,Tacx Z1 spin,60' Z1,3
 2027-01-09,Sat,10,Build 1,Bike,Bike 35.0 km easy Z1-Z2,105,35.0,"Easy steady ride, Z1-Z2 (cycling HR runs ~5-10 bpm below running). Assumes ~20 km/h, so about 105 min. Progression: +1 km every weekend ride (9 km on Sat 10 Oct 2026) until 11 Apr 2027; then the Durban long-ride build takes over.",105' Z2,1
 2027-01-09,Sat,10,Build 1,Run,Run 60 min Zone 1.5,60,,"Easy Zone 1.5 run; walk breaks as needed to stay in the target zone. Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Weekend running cap: maximum 60 minutes total per day across all run blocks, except actual race events. This session is 60 minutes total (warm-up and cool-down included).",5' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 5' Z1,2
@@ -249,14 +249,14 @@ date,day,week,phase,sport,title,duration_min,distance_km,description,segments,sl
 2027-01-11,Mon,11,Build 1,Gym,Gym Day A full-body hypertrophy,30,,Gym Day A full-body hypertrophy,30' Z1,1
 2027-01-11,Mon,11,Build 1,Bike,Tacx Z2 w/ 3x12 min low Z3 (Zwift 4-5% climb),120,,Tacx Z2 w/ 3x12 min low Z3 (Zwift 4-5% climb),10' Z1 | 3×(12' Z3 / 6' Z1) | 62' Z1,2
 2027-01-12,Tue,11,Build 1,Gym,Gym Day B full-body hypertrophy,30,,Gym Day B full-body hypertrophy,30' Z1,1
-2027-01-12,Tue,11,Build 1,Run,Run 90 min Z2 incl. 6x20 s strides,90,,Run 90 min Z2 incl. 6x20 s strides,10' Z1 | 75' Z2 | 5' Z1,2
+2027-01-12,Tue,11,Build 1,Run,Long run 100 min Z1-Z2 (fuelled),100,,"Long-run build toward 2:00 for Miami (2:30 target) and the IRONMAN 70.3 Durban run. 100 min easy Z1-Z2, run-walk ok. First fuelled long run: Carry a 500-750 ml bottle of your maltodextrin/fructose exercise-carb mix: about 30 g carbs per hour, sipping every 15-20 min from minute 20.",10' Z1 | 85' Z2 | 5' Z1,2
 2027-01-12,Tue,11,Build 1,Bike,Tacx Z1 spin,30,,Tacx Z1 spin,30' Z1,3
 2027-01-13,Wed,11,Build 1,Bike,"BRICK: Tacx 90 min, 3x15 min Z3 race effort",90,,"BRICK: Tacx 90 min, 3x15 min Z3 race effort",10' Z1 | 3×(15' Z3 / 7' Z1) | 21' Z1,1
 2027-01-13,Wed,11,Build 1,Run,Zone test 25 min,25,,"25-MIN STEP ZONE TEST (no AutoZone link - run it by feel): 5 min in each zone without stopping, Z1 then Z2, Z3, Z4 and Z5. Note your heart rate and pace at the end of each 5-min step to re-check your zones. Stop if any pain at the hernia-repair site. Followed by the 35 min Z1 recovery run.",5' Z1 | 5' Z2 | 5' Z3 | 5' Z4 | 5' Z5,2
 2027-01-13,Wed,11,Build 1,Run,Run 35 min Z1 recovery,35,,Zone 1 recovery run after the zone test: very easy and conversational; walk breaks as needed to stay in Z1.,5' Z1 | 25' Z1 | 5' Z1,3
 2027-01-14,Thu,11,Build 1,Gym,Gym Day C full-body hypertrophy,30,,Gym Day C full-body hypertrophy,30' Z1,1
 2027-01-14,Thu,11,Build 1,Bike,Tacx 75 min: 4x8 min Z4 (sweet spot) / 4 min easy,75,,Tacx 75 min: 4x8 min Z4 (sweet spot) / 4 min easy,10' Z1 | 4×(8' Z4 / 4' Z1) | 21' Z1,2
-2027-01-14,Thu,11,Build 1,Run,Run 45 min Z2,45,,Run 45 min Z2,10' Z1 | 30' Z2 | 5' Z1,3
+2027-01-14,Thu,11,Build 1,Run,Run 35 min Z2,35,,Run 35 min Z2,10' Z1 | 20' Z2 | 5' Z1,3
 2027-01-15,Fri,11,Build 1,Gym,Gym Day D full-body hypertrophy,30,,Gym Day D full-body hypertrophy,30' Z1,1
 2027-01-15,Fri,11,Build 1,Run,Run 60 min Z2 progression (last 10 low Z3),60,,Run 60 min Z2 progression (last 10 low Z3),10' Z1 | 45' Z2 | 5' Z1,2
 2027-01-15,Fri,11,Build 1,Bike,Tacx Z1 spin,60,,Tacx Z1 spin,60' Z1,3
@@ -292,7 +292,7 @@ date,day,week,phase,sport,title,duration_min,distance_km,description,segments,sl
 2027-01-25,Mon,13,Build 1,Gym,Gym Day A full-body hypertrophy,30,,Gym Day A full-body hypertrophy,30' Z1,1
 2027-01-25,Mon,13,Build 1,Bike,Tacx Z2 w/ 3x12 min low Z3 (Zwift 4-5% climb),120,,Tacx Z2 w/ 3x12 min low Z3 (Zwift 4-5% climb),10' Z1 | 3×(12' Z3 / 6' Z1) | 62' Z1,2
 2027-01-26,Tue,13,Build 1,Gym,Gym Day B full-body hypertrophy,30,,Gym Day B full-body hypertrophy,30' Z1,1
-2027-01-26,Tue,13,Build 1,Run,Run 90 min Z2 incl. 6x20 s strides,90,,Run 90 min Z2 incl. 6x20 s strides,10' Z1 | 75' Z2 | 5' Z1,2
+2027-01-26,Tue,13,Build 1,Run,Run 80 min Z2 easy (metric half week),80,,"Shorter long run this week so you're fresh for Sunday's metric half TT (31 Jan). Easy Z2, run-walk ok.",10' Z1 | 65' Z2 | 5' Z1,2
 2027-01-26,Tue,13,Build 1,Bike,Tacx Z1 spin,30,,Tacx Z1 spin,30' Z1,3
 2027-01-27,Wed,13,Build 1,Bike,Tacx 75 min Z2 w/ 3x5 min Z3,75,,"Tacx 75 min Z2 w/ 3x5 min Z3 · Lighter brick, TT Sunday",10' Z1 | 3×(5' Z3 / 2' Z1) | 46' Z1,1
 2027-01-27,Wed,13,Build 1,Run,Brick run 30 min Zone 1.5,30,,"Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Brick run 30 min Zone 1.5 · Lighter brick, TT Sunday",5' Z2 | 10' Z1 | 5' Z2 | 10' Z1,2
@@ -310,13 +310,13 @@ date,day,week,phase,sport,title,duration_min,distance_km,description,segments,sl
 2027-02-01,Mon,14,Build 1,Gym,Gym Day A (light),30,,Gym Day A (light) · Post-TT recovery,30' Z1,1
 2027-02-01,Mon,14,Build 1,Bike,Tacx 90 min Z1 recovery,90,,Tacx 90 min Z1 recovery · Post-TT recovery,90' Z1,2
 2027-02-02,Tue,14,Build 1,Gym,Gym Day B full-body hypertrophy,30,,Gym Day B full-body hypertrophy,30' Z1,1
-2027-02-02,Tue,14,Build 1,Run,Run 90 min Z2 incl. 6x20 s strides,90,,Run 90 min Z2 incl. 6x20 s strides,10' Z1 | 75' Z2 | 5' Z1,2
+2027-02-02,Tue,14,Build 1,Run,Long run 105 min Z2 (fuelled),105,,"Long-run build toward 2:00 for Miami (2:30 target) and the IRONMAN 70.3 Durban run. 105 min easy Z2; last 10 min at the top of Z2 (148-153 bpm). Carry a 500-750 ml bottle of your maltodextrin/fructose exercise-carb mix: about 30 g carbs per hour, sipping every 15-20 min from minute 20.","10' Z1 | 80' Z2 | 10' Z2 ""Top Z2 148-153 bpm"" | 5' Z1",2
 2027-02-02,Tue,14,Build 1,Bike,Tacx Z1 spin,30,,Tacx Z1 spin,30' Z1,3
 2027-02-03,Wed,14,Build 1,Bike,"BRICK: Tacx 90 min, 3x15 min Z3 race effort",90,,"BRICK: Tacx 90 min, 3x15 min Z3 race effort",10' Z1 | 3×(15' Z3 / 7' Z1) | 21' Z1,1
 2027-02-03,Wed,14,Build 1,Run,"Brick run 60 min: 15 min Z3 off bike, 45 Z1-Z2",60,,"Brick run 60 min: 15 min Z3 off bike, 45 Z1-Z2",10' Z1 | 45' Z2 | 5' Z1,2
 2027-02-04,Thu,14,Build 1,Gym,Gym Day C full-body hypertrophy,30,,Gym Day C full-body hypertrophy,30' Z1,1
 2027-02-04,Thu,14,Build 1,Bike,Tacx 75 min: 4x8 min Z4 (sweet spot) / 4 min easy,75,,Tacx 75 min: 4x8 min Z4 (sweet spot) / 4 min easy,10' Z1 | 4×(8' Z4 / 4' Z1) | 21' Z1,2
-2027-02-04,Thu,14,Build 1,Run,Run 45 min Z2,45,,Run 45 min Z2,10' Z1 | 30' Z2 | 5' Z1,3
+2027-02-04,Thu,14,Build 1,Run,Run 30 min Z2,30,,Run 30 min Z2,5' Z1 | 20' Z2 | 5' Z1,3
 2027-02-05,Fri,14,Build 1,Gym,Gym Day D full-body hypertrophy,30,,Gym Day D full-body hypertrophy,30' Z1,1
 2027-02-05,Fri,14,Build 1,Run,Run 60 min Z2 progression (last 10 low Z3),60,,Run 60 min Z2 progression (last 10 low Z3),10' Z1 | 45' Z2 | 5' Z1,2
 2027-02-05,Fri,14,Build 1,Bike,Tacx Z1 spin,60,,Tacx Z1 spin,60' Z1,3
@@ -331,16 +331,16 @@ date,day,week,phase,sport,title,duration_min,distance_km,description,segments,sl
 2027-02-08,Mon,15,Build 1,Gym,Gym Day A full-body hypertrophy,30,,Gym Day A full-body hypertrophy,30' Z1,1
 2027-02-08,Mon,15,Build 1,Bike,Tacx Z2 w/ 3x12 min low Z3 (Zwift 4-5% climb),120,,Tacx Z2 w/ 3x12 min low Z3 (Zwift 4-5% climb),10' Z1 | 3×(12' Z3 / 6' Z1) | 62' Z1,2
 2027-02-09,Tue,15,Build 1,Gym,Gym Day B full-body hypertrophy,30,,Gym Day B full-body hypertrophy,30' Z1,1
-2027-02-09,Tue,15,Build 1,Run,Run 90 min Z2 incl. 6x20 s strides,90,,Run 90 min Z2 incl. 6x20 s strides,10' Z1 | 75' Z2 | 5' Z1,2
+2027-02-09,Tue,15,Build 1,Run,Long run 110 min Z2 (fuelled),110,,"Long-run build toward 2:00 for Miami (2:30 target) and the IRONMAN 70.3 Durban run. 110 min easy Z2. Carry a 500-750 ml bottle of your maltodextrin/fructose exercise-carb mix: about 40-45 g carbs per hour, sipping every 15-20 min from minute 20.",10' Z1 | 95' Z2 | 5' Z1,2
 2027-02-09,Tue,15,Build 1,Bike,Tacx Z1 spin,30,,Tacx Z1 spin,30' Z1,3
 2027-02-10,Wed,15,Build 1,Bike,"BRICK: Tacx 90 min, 3x15 min Z3 race effort",90,,"BRICK: Tacx 90 min, 3x15 min Z3 race effort",10' Z1 | 3×(15' Z3 / 7' Z1) | 21' Z1,1
 2027-02-10,Wed,15,Build 1,Run,Zone test 25 min,25,,"25-MIN STEP ZONE TEST (no AutoZone link - run it by feel): 5 min in each zone without stopping, Z1 then Z2, Z3, Z4 and Z5. Note your heart rate and pace at the end of each 5-min step to re-check your zones. Stop if any pain at the hernia-repair site. Followed by the 35 min Z1 recovery run.",5' Z1 | 5' Z2 | 5' Z3 | 5' Z4 | 5' Z5,2
 2027-02-10,Wed,15,Build 1,Run,Run 35 min Z1 recovery,35,,Zone 1 recovery run after the zone test: very easy and conversational; walk breaks as needed to stay in Z1.,5' Z1 | 25' Z1 | 5' Z1,3
 2027-02-11,Thu,15,Build 1,Gym,Gym Day C full-body hypertrophy,30,,Gym Day C full-body hypertrophy,30' Z1,1
 2027-02-11,Thu,15,Build 1,Bike,Tacx 75 min: 4x8 min Z4 (sweet spot) / 4 min easy,75,,Tacx 75 min: 4x8 min Z4 (sweet spot) / 4 min easy,10' Z1 | 4×(8' Z4 / 4' Z1) | 21' Z1,2
-2027-02-11,Thu,15,Build 1,Run,Run 45 min Z2,45,,Run 45 min Z2,10' Z1 | 30' Z2 | 5' Z1,3
+2027-02-11,Thu,15,Build 1,Run,Run 35 min Z2,35,,Run 35 min Z2,10' Z1 | 20' Z2 | 5' Z1,3
 2027-02-12,Fri,15,Build 1,Gym,Gym Day D full-body hypertrophy,30,,Gym Day D full-body hypertrophy,30' Z1,1
-2027-02-12,Fri,15,Build 1,Run,Run 60 min Z2 progression (last 10 low Z3),60,,Run 60 min Z2 progression (last 10 low Z3),10' Z1 | 45' Z2 | 5' Z1,2
+2027-02-12,Fri,15,Build 1,Run,Run 50 min Z2 progression (last 10 low Z3),50,,Run 50 min Z2 progression (last 10 low Z3),10' Z1 | 35' Z2 | 5' Z1,2
 2027-02-12,Fri,15,Build 1,Bike,Tacx Z1 spin,60,,Tacx Z1 spin,60' Z1,3
 2027-02-13,Sat,15,Build 1,Bike,Bike 45.0 km easy Z1-Z2,135,45.0,"Easy steady ride, Z1-Z2 (cycling HR runs ~5-10 bpm below running). Assumes ~20 km/h, so about 135 min. Progression: +1 km every weekend ride (9 km on Sat 10 Oct 2026) until 11 Apr 2027; then the Durban long-ride build takes over.",135' Z2,1
 2027-02-13,Sat,15,Build 1,Run,Run 60 min Zone 1.5,60,,"Easy Zone 1.5 run; walk breaks as needed to stay in the target zone. Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Weekend running cap: maximum 60 minutes total per day across all run blocks, except actual race events. This session is 60 minutes total (warm-up and cool-down included).",5' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 5' Z1,2
@@ -354,7 +354,7 @@ date,day,week,phase,sport,title,duration_min,distance_km,description,segments,sl
 2027-02-15,Mon,16,Build 1,Bike,MyWhoosh ramp FTP test,25,,"Indoor MyWhoosh ramp FTP test, 25 min including warm-up and cool-down. Easy Z1 warm-up, then the MyWhoosh ramp (power rises each minute until you cannot hold it; the stepped zones are a guide, stop at failure). Easy Z1 spin-down after. Do this before the hour of Z1 spinning. If the FTP comes out high and later Z2 rides feel too hard, knock it down about 5%.",8' Z1 | 3' Z2 | 3' Z3 | 3' Z4 | 3' Z5 | 5' Z1,2
 2027-02-15,Mon,16,Build 1,Bike,Tacx Z1 spin,60,,"Easy Zone 1 spin after the MyWhoosh ramp test, staying under 133 bpm (max HR 205), even if that means only 15-16 km/h. This replaces the usual Monday bike ride.",60' Z1,3
 2027-02-16,Tue,16,Build 1,Gym,Gym Day B - 2 sets/exercise (deload),30,,Gym Day B - 2 sets/exercise (deload),30' Z1,1
-2027-02-16,Tue,16,Build 1,Run,Run Z1-Z2 easy,60,,Run Z1-Z2 easy,10' Z1 | 45' Z2 | 5' Z1,2
+2027-02-16,Tue,16,Build 1,Run,Run 75 min Zone 1.5,75,,"Down week: 75 min easy. Zone 1.5 = alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR.",5' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 5' Z1,2
 2027-02-16,Tue,16,Build 1,Bike,Tacx Z1 spin,30,,Tacx Z1 spin,30' Z1,3
 2027-02-17,Wed,16,Build 1,Bike,Tacx Z2 60 min w/ 4x3 min Z3,60,,Tacx Z2 60 min w/ 4x3 min Z3,10' Z1 | 4×(3' Z3 / 3' Z1) | 29' Z1,1
 2027-02-17,Wed,16,Build 1,Run,Brick run 30 min Zone 1.5,30,,"Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Brick run 30 min Zone 1.5",5' Z2 | 10' Z1 | 5' Z2 | 10' Z1,2
@@ -362,7 +362,7 @@ date,day,week,phase,sport,title,duration_min,distance_km,description,segments,sl
 2027-02-18,Thu,16,Build 1,Bike,Tacx Z1-Z2,60,,Tacx Z1-Z2,10' Z1 | 45' Z2 | 5' Z1,2
 2027-02-18,Thu,16,Build 1,Run,Run Zone 1.5 + 4 strides,30,,"Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Run Zone 1.5 + 4 strides",5' Z2 | 10' Z1 | 5' Z2 | 10' Z1,3
 2027-02-19,Fri,16,Build 1,Gym,Gym Day D - 2 sets/exercise (deload),30,,Gym Day D - 2 sets/exercise (deload),30' Z1,1
-2027-02-19,Fri,16,Build 1,Run,Run Zone 1.5,45,,"Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Run Zone 1.5",5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1,2
+2027-02-19,Fri,16,Build 1,Run,Run 30 min Zone 1.5,30,,"Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Run 30 min Zone 1.5",5' Z2 | 10' Z1 | 5' Z2 | 10' Z1,2
 2027-02-19,Fri,16,Build 1,Bike,Tacx Z1 spin,45,,Tacx Z1 spin,45' Z1,3
 2027-02-20,Sat,16,Build 1,Bike,Bike 47.0 km easy Z1-Z2,141,47.0,"Easy steady ride, Z1-Z2 (cycling HR runs ~5-10 bpm below running). Assumes ~20 km/h, so about 141 min. Progression: +1 km every weekend ride (9 km on Sat 10 Oct 2026) until 11 Apr 2027; then the Durban long-ride build takes over.",141' Z2,1
 2027-02-20,Sat,16,Build 1,Run,Run 60 min Zone 1.5,60,,"Easy Zone 1.5 run; walk breaks as needed to stay in the target zone. Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Reduced for race/recovery week. Weekend running cap: maximum 60 minutes total per day across all run blocks, except actual race events. This session is 60 minutes total (warm-up and cool-down included).",5' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 5' Z1,2
@@ -375,15 +375,15 @@ date,day,week,phase,sport,title,duration_min,distance_km,description,segments,sl
 2027-02-22,Mon,17,Build 1,Gym,Gym Day A full-body hypertrophy,30,,Gym Day A full-body hypertrophy,30' Z1,1
 2027-02-22,Mon,17,Build 1,Bike,Tacx Z2 w/ 3x12 min low Z3 (Zwift 4-5% climb),120,,Tacx Z2 w/ 3x12 min low Z3 (Zwift 4-5% climb),10' Z1 | 3×(12' Z3 / 6' Z1) | 62' Z1,2
 2027-02-23,Tue,17,Build 1,Gym,Gym Day B full-body hypertrophy,30,,Gym Day B full-body hypertrophy,30' Z1,1
-2027-02-23,Tue,17,Build 1,Run,Run 90 min Z2 incl. 6x20 s strides,90,,Run 90 min Z2 incl. 6x20 s strides,10' Z1 | 75' Z2 | 5' Z1,2
+2027-02-23,Tue,17,Build 1,Run,Long run 115 min Z2 + race-pace finish (fuelled),115,,"Long-run build toward 2:00 for Miami (2:30 target) and the IRONMAN 70.3 Durban run. 115 min: easy Z2, then the last 15 min at race-pace HR before the cool-down. Race-pace blocks = HR 148-158 bpm (top Z2 / low Z3), your Miami and Durban half-marathon effort; back off if HR goes above 158. Carry a 500-750 ml bottle of your maltodextrin/fructose exercise-carb mix: about 40-45 g carbs per hour, sipping every 15-20 min from minute 20.","10' Z1 | 85' Z2 | 15' Z2 ""Race pace 148-158 bpm"" | 5' Z1",2
 2027-02-23,Tue,17,Build 1,Bike,Tacx Z1 spin,30,,Tacx Z1 spin,30' Z1,3
 2027-02-24,Wed,17,Build 1,Bike,"BRICK: Tacx 90 min, 3x15 min Z3 race effort",90,,"BRICK: Tacx 90 min, 3x15 min Z3 race effort",10' Z1 | 3×(15' Z3 / 7' Z1) | 21' Z1,1
 2027-02-24,Wed,17,Build 1,Run,"Brick run 60 min: 15 min Z3 off bike, 45 Z1-Z2",60,,"Brick run 60 min: 15 min Z3 off bike, 45 Z1-Z2",10' Z1 | 45' Z2 | 5' Z1,2
 2027-02-25,Thu,17,Build 1,Gym,Gym Day C full-body hypertrophy,30,,Gym Day C full-body hypertrophy,30' Z1,1
 2027-02-25,Thu,17,Build 1,Bike,Tacx 75 min: 4x8 min Z4 (sweet spot) / 4 min easy,75,,Tacx 75 min: 4x8 min Z4 (sweet spot) / 4 min easy,10' Z1 | 4×(8' Z4 / 4' Z1) | 21' Z1,2
-2027-02-25,Thu,17,Build 1,Run,Run 45 min Z2,45,,Run 45 min Z2,10' Z1 | 30' Z2 | 5' Z1,3
+2027-02-25,Thu,17,Build 1,Run,Run 35 min Z2,35,,Run 35 min Z2,10' Z1 | 20' Z2 | 5' Z1,3
 2027-02-26,Fri,17,Build 1,Gym,Gym Day D full-body hypertrophy,30,,Gym Day D full-body hypertrophy,30' Z1,1
-2027-02-26,Fri,17,Build 1,Run,Run 60 min Z2 progression (last 10 low Z3),60,,Run 60 min Z2 progression (last 10 low Z3),10' Z1 | 45' Z2 | 5' Z1,2
+2027-02-26,Fri,17,Build 1,Run,Run 45 min Z2 progression (last 10 low Z3),45,,Run 45 min Z2 progression (last 10 low Z3),10' Z1 | 30' Z2 | 5' Z1,2
 2027-02-26,Fri,17,Build 1,Bike,Tacx Z1 spin,60,,Tacx Z1 spin,60' Z1,3
 2027-02-27,Sat,17,Build 1,Bike,Bike 49.0 km easy Z1-Z2,147,49.0,"Easy steady ride, Z1-Z2 (cycling HR runs ~5-10 bpm below running). Assumes ~20 km/h, so about 147 min. Progression: +1 km every weekend ride (9 km on Sat 10 Oct 2026) until 11 Apr 2027; then the Durban long-ride build takes over.",147' Z2,1
 2027-02-27,Sat,17,Build 1,Run,Run 60 min Zone 1.5,60,,"Easy Zone 1.5 run; walk breaks as needed to stay in the target zone. Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Weekend running cap: maximum 60 minutes total per day across all run blocks, except actual race events. This session is 60 minutes total (warm-up and cool-down included).",5' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 5' Z1,2
@@ -396,16 +396,16 @@ date,day,week,phase,sport,title,duration_min,distance_km,description,segments,sl
 2027-03-01,Mon,18,Build 1,Gym,Gym Day A full-body hypertrophy,30,,Gym Day A full-body hypertrophy,30' Z1,1
 2027-03-01,Mon,18,Build 1,Bike,Tacx Z2 w/ 3x12 min low Z3 (Zwift 4-5% climb),120,,Tacx Z2 w/ 3x12 min low Z3 (Zwift 4-5% climb),10' Z1 | 3×(12' Z3 / 6' Z1) | 62' Z1,2
 2027-03-02,Tue,18,Build 1,Gym,Gym Day B full-body hypertrophy,30,,Gym Day B full-body hypertrophy,30' Z1,1
-2027-03-02,Tue,18,Build 1,Run,Run 90 min Z2 incl. 6x20 s strides,90,,Run 90 min Z2 incl. 6x20 s strides,10' Z1 | 75' Z2 | 5' Z1,2
+2027-03-02,Tue,18,Build 1,Run,Long run 120 min Z2 (fuelled),120,,"2:00 easy confidence run before the Sasolburg half (14 Mar). Easy Z2, run-walk ok. Carry a 500-750 ml bottle of your maltodextrin/fructose exercise-carb mix: about 40-45 g carbs per hour, sipping every 15-20 min from minute 20.",10' Z1 | 105' Z2 | 5' Z1,2
 2027-03-02,Tue,18,Build 1,Bike,Tacx Z1 spin,30,,Tacx Z1 spin,30' Z1,3
 2027-03-03,Wed,18,Build 1,Bike,"BRICK: Tacx 90 min, 3x15 min Z3 race effort",90,,"BRICK: Tacx 90 min, 3x15 min Z3 race effort",10' Z1 | 3×(15' Z3 / 7' Z1) | 21' Z1,1
 2027-03-03,Wed,18,Build 1,Run,Zone test 25 min,25,,"25-MIN STEP ZONE TEST (no AutoZone link - run it by feel): 5 min in each zone without stopping, Z1 then Z2, Z3, Z4 and Z5. Note your heart rate and pace at the end of each 5-min step to re-check your zones. Stop if any pain at the hernia-repair site. Followed by the 35 min Z1 recovery run.",5' Z1 | 5' Z2 | 5' Z3 | 5' Z4 | 5' Z5,2
 2027-03-03,Wed,18,Build 1,Run,Run 35 min Z1 recovery,35,,Zone 1 recovery run after the zone test: very easy and conversational; walk breaks as needed to stay in Z1.,5' Z1 | 25' Z1 | 5' Z1,3
 2027-03-04,Thu,18,Build 1,Gym,Gym Day C full-body hypertrophy,30,,Gym Day C full-body hypertrophy,30' Z1,1
 2027-03-04,Thu,18,Build 1,Bike,Tacx 75 min: 4x8 min Z4 (sweet spot) / 4 min easy,75,,Tacx 75 min: 4x8 min Z4 (sweet spot) / 4 min easy,10' Z1 | 4×(8' Z4 / 4' Z1) | 21' Z1,2
-2027-03-04,Thu,18,Build 1,Run,Run 45 min Z2,45,,Run 45 min Z2,10' Z1 | 30' Z2 | 5' Z1,3
+2027-03-04,Thu,18,Build 1,Run,Run 35 min Z2,35,,Run 35 min Z2,10' Z1 | 20' Z2 | 5' Z1,3
 2027-03-05,Fri,18,Build 1,Gym,Gym Day D full-body hypertrophy,30,,Gym Day D full-body hypertrophy,30' Z1,1
-2027-03-05,Fri,18,Build 1,Run,Run 60 min Z2 progression (last 10 low Z3),60,,Run 60 min Z2 progression (last 10 low Z3),10' Z1 | 45' Z2 | 5' Z1,2
+2027-03-05,Fri,18,Build 1,Run,Run 40 min Z2 progression (last 10 low Z3),40,,Run 40 min Z2 progression (last 10 low Z3),10' Z1 | 25' Z2 | 5' Z1,2
 2027-03-05,Fri,18,Build 1,Bike,Tacx Z1 spin,60,,Tacx Z1 spin,60' Z1,3
 2027-03-06,Sat,18,Build 1,Bike,Bike 43.0 km easy Z1-Z2,129,43.0,"Easy steady ride, Z1-Z2 (cycling HR runs ~5-10 bpm below running). Assumes ~20 km/h, so about 129 min. Shortened for this race/taper week; the +1 km sequence resumes afterwards.",129' Z2,1
 2027-03-06,Sat,18,Build 1,Run,Run 60 min Zone 1.5,60,,"Easy Zone 1.5 run; walk breaks as needed to stay in the target zone. Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Reduced for race/recovery week. Weekend running cap: maximum 60 minutes total per day across all run blocks, except actual race events. This session is 60 minutes total (warm-up and cool-down included).",5' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 5' Z1,2
@@ -456,13 +456,13 @@ date,day,week,phase,sport,title,duration_min,distance_km,description,segments,sl
 2027-03-22,Mon,21,Build 2 / 70.3-specific,Gym,Gym Day A full-body hypertrophy,30,,Gym Day A full-body hypertrophy,30' Z1,1
 2027-03-22,Mon,21,Build 2 / 70.3-specific,Bike,Tacx 2 h: 2x30 min 70.3 race effort (Z3) @ 6% Zwift/ERG,120,,Tacx 2 h: 2x30 min 70.3 race effort (Z3) @ 6% Zwift/ERG,10' Z1 | 2×(30' Z3 / 15' Z1) | 35' Z1,2
 2027-03-23,Tue,21,Build 2 / 70.3-specific,Gym,Gym Day B full-body hypertrophy,30,,Gym Day B full-body hypertrophy,30' Z1,1
-2027-03-23,Tue,21,Build 2 / 70.3-specific,Run,Run 90 min: 3x10 min HM pace (Z3) in Z2 run,90,,"Run 90 min: 3x10 min HM pace (Z3) in Z2 run. The long easy finish is Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR.",10' Z1 | 3×(10' Z3 / 5' Z1) | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 5' Z1,2
+2027-03-23,Tue,21,Build 2 / 70.3-specific,Run,Long run 100 min: 3x10 min race pace (fuelled),100,,"Long-run build toward 2:00 for Miami (2:30 target) and the IRONMAN 70.3 Durban run. 3x10 min at race-pace HR with 5 min Z1 between, then a Zone 1.5 easy finish. Race-pace blocks = HR 148-158 bpm (top Z2 / low Z3), your Miami and Durban half-marathon effort; back off if HR goes above 158. Carry a 500-750 ml bottle of your maltodextrin/fructose exercise-carb mix: about 40-45 g carbs per hour, sipping every 15-20 min from minute 20. Zone 1.5 = alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR.","10' Z1 | 3×(10' Z2 ""Race pace 148-158 bpm"" / 5' Z1) | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1",2
 2027-03-23,Tue,21,Build 2 / 70.3-specific,Bike,Tacx Z1 spin,30,,Tacx Z1 spin,30' Z1,3
 2027-03-24,Wed,21,Build 2 / 70.3-specific,Bike,"RACE-SIM BRICK: Tacx 90 min, 2x30 min race effort, aero",90,,"RACE-SIM BRICK: Tacx 90 min, 2x30 min race effort, aero",10' Z1 | 2×(30' Z3 / 15' Z1) | 5' Z1,1
 2027-03-24,Wed,21,Build 2 / 70.3-specific,Run,Brick run 60 min: 20 min race pace + 40 Z2,60,,Brick run 60 min: 20 min race pace + 40 Z2,10' Z1 | 45' Z2 | 5' Z1,2
 2027-03-25,Thu,21,Build 2 / 70.3-specific,Gym,Gym Day C full-body hypertrophy,30,,Gym Day C full-body hypertrophy,30' Z1,1
 2027-03-25,Thu,21,Build 2 / 70.3-specific,Bike,Tacx 75 min: 5x5 min Z4 / 3 min easy,75,,Tacx 75 min: 5x5 min Z4 / 3 min easy,10' Z1 | 5×(5' Z4 / 2' Z1) | 32' Z1,2
-2027-03-25,Thu,21,Build 2 / 70.3-specific,Run,Run 45 min Z2,45,,Run 45 min Z2,10' Z1 | 30' Z2 | 5' Z1,3
+2027-03-25,Thu,21,Build 2 / 70.3-specific,Run,Run 35 min Z2,35,,Run 35 min Z2,10' Z1 | 20' Z2 | 5' Z1,3
 2027-03-26,Fri,21,Build 2 / 70.3-specific,Gym,Gym Day D full-body hypertrophy,30,,Gym Day D full-body hypertrophy,30' Z1,1
 2027-03-26,Fri,21,Build 2 / 70.3-specific,Run,Run 60 min Z2,60,,Run 60 min Z2,10' Z1 | 45' Z2 | 5' Z1,2
 2027-03-26,Fri,21,Build 2 / 70.3-specific,Bike,Tacx Z1 spin,60,,Tacx Z1 spin,60' Z1,3
@@ -478,15 +478,15 @@ date,day,week,phase,sport,title,duration_min,distance_km,description,segments,sl
 2027-03-29,Mon,22,Build 2 / 70.3-specific,Bike,MyWhoosh ramp FTP test,25,,"Indoor MyWhoosh ramp FTP test, 25 min including warm-up and cool-down. Easy Z1 warm-up, then the MyWhoosh ramp (power rises each minute until you cannot hold it; the stepped zones are a guide, stop at failure). Easy Z1 spin-down after. Do this before the hour of Z1 spinning. If the FTP comes out high and later Z2 rides feel too hard, knock it down about 5%.",8' Z1 | 3' Z2 | 3' Z3 | 3' Z4 | 3' Z5 | 5' Z1,2
 2027-03-29,Mon,22,Build 2 / 70.3-specific,Bike,Tacx Z1 spin,60,,"Easy Zone 1 spin after the MyWhoosh ramp test, staying under 133 bpm (max HR 205), even if that means only 15-16 km/h. This replaces the usual Monday bike ride.",60' Z1,3
 2027-03-30,Tue,22,Build 2 / 70.3-specific,Gym,Gym Day B full-body hypertrophy,30,,Gym Day B full-body hypertrophy,30' Z1,1
-2027-03-30,Tue,22,Build 2 / 70.3-specific,Run,Run 90 min: 3x10 min HM pace (Z3) in Z2 run,90,,"Run 90 min: 3x10 min HM pace (Z3) in Z2 run. The long easy finish is Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR.",10' Z1 | 3×(10' Z3 / 5' Z1) | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 5' Z1,2
+2027-03-30,Tue,22,Build 2 / 70.3-specific,Run,Long run 110 min: 3x12 min race pace (fuelled),110,,"Long-run build toward 2:00 for Miami (2:30 target) and the IRONMAN 70.3 Durban run. 3x12 min at race-pace HR with 5 min Z1 between, then a Zone 1.5 easy finish. Race-pace blocks = HR 148-158 bpm (top Z2 / low Z3), your Miami and Durban half-marathon effort; back off if HR goes above 158. Race-day fuelling rehearsal: 45-60 g carbs per hour from your maltodextrin/fructose exercise-carb mix (500-750 ml bottle), sipping every 15-20 min from minute 20 - the same plan as Miami and Durban. Zone 1.5 = alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR.","10' Z1 | 3×(12' Z2 ""Race pace 148-158 bpm"" / 5' Z1) | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 9' Z1 | 5' Z1",2
 2027-03-30,Tue,22,Build 2 / 70.3-specific,Bike,Tacx Z1 spin,30,,Tacx Z1 spin,30' Z1,3
 2027-03-31,Wed,22,Build 2 / 70.3-specific,Bike,"RACE-SIM BRICK: Tacx 90 min, 2x30 min race effort, aero",90,,"RACE-SIM BRICK: Tacx 90 min, 2x30 min race effort, aero",10' Z1 | 2×(30' Z3 / 15' Z1) | 5' Z1,1
 2027-03-31,Wed,22,Build 2 / 70.3-specific,Run,Brick run 60 min: 20 min race pace + 40 Z2,60,,Brick run 60 min: 20 min race pace + 40 Z2,10' Z1 | 45' Z2 | 5' Z1,2
 2027-04-01,Thu,22,Build 2 / 70.3-specific,Gym,Gym Day C full-body hypertrophy,30,,Gym Day C full-body hypertrophy,30' Z1,1
 2027-04-01,Thu,22,Build 2 / 70.3-specific,Bike,Tacx 75 min: 5x5 min Z4 / 3 min easy,75,,Tacx 75 min: 5x5 min Z4 / 3 min easy,10' Z1 | 5×(5' Z4 / 2' Z1) | 32' Z1,2
-2027-04-01,Thu,22,Build 2 / 70.3-specific,Run,Run 45 min Z2,45,,Run 45 min Z2,10' Z1 | 30' Z2 | 5' Z1,3
+2027-04-01,Thu,22,Build 2 / 70.3-specific,Run,Run 35 min Z2,35,,Run 35 min Z2,10' Z1 | 20' Z2 | 5' Z1,3
 2027-04-02,Fri,22,Build 2 / 70.3-specific,Gym,Gym Day D full-body hypertrophy,30,,Gym Day D full-body hypertrophy,30' Z1,1
-2027-04-02,Fri,22,Build 2 / 70.3-specific,Run,Run 60 min Z2,60,,Run 60 min Z2,10' Z1 | 45' Z2 | 5' Z1,2
+2027-04-02,Fri,22,Build 2 / 70.3-specific,Run,Run 50 min Z2,50,,Run 50 min Z2,10' Z1 | 35' Z2 | 5' Z1,2
 2027-04-02,Fri,22,Build 2 / 70.3-specific,Bike,Tacx Z1 spin,60,,Tacx Z1 spin,60' Z1,3
 2027-04-03,Sat,22,Build 2 / 70.3-specific,Bike,Bike 55.0 km easy Z1-Z2,165,55.0,"Easy steady ride, Z1-Z2 (cycling HR runs ~5-10 bpm below running). Assumes ~20 km/h, so about 165 min. Progression: +1 km every weekend ride (9 km on Sat 10 Oct 2026) until 11 Apr 2027; then the Durban long-ride build takes over.",165' Z2,1
 2027-04-03,Sat,22,Build 2 / 70.3-specific,Run,Run 60 min Zone 1.5,60,,"Easy Zone 1.5 run, shortened to balance the weekend (Sunday brick is longer). Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Weekend running cap: maximum 60 minutes total per day across all run blocks, except actual race events. This session is 60 minutes total (warm-up and cool-down included).",5' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 5' Z1,2
@@ -499,7 +499,7 @@ date,day,week,phase,sport,title,duration_min,distance_km,description,segments,sl
 2027-04-05,Mon,23,Build 2 / 70.3-specific,Gym,Gym Day A - 2 sets/exercise (deload),30,,Gym Day A - 2 sets/exercise (deload),30' Z1,1
 2027-04-05,Mon,23,Build 2 / 70.3-specific,Bike,Tacx Z2 steady (recovery wk),90,,Tacx Z2 steady (recovery wk),10' Z1 | 75' Z2 | 5' Z1,2
 2027-04-06,Tue,23,Build 2 / 70.3-specific,Gym,Gym Day B - 2 sets/exercise (deload),30,,Gym Day B - 2 sets/exercise (deload),30' Z1,1
-2027-04-06,Tue,23,Build 2 / 70.3-specific,Run,Run Z1-Z2 easy,60,,Run Z1-Z2 easy,10' Z1 | 45' Z2 | 5' Z1,2
+2027-04-06,Tue,23,Build 2 / 70.3-specific,Run,Run 75 min Zone 1.5,75,,"Down week: 75 min easy. Zone 1.5 = alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR.",5' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 5' Z1,2
 2027-04-06,Tue,23,Build 2 / 70.3-specific,Bike,Tacx Z1 spin,30,,Tacx Z1 spin,30' Z1,3
 2027-04-07,Wed,23,Build 2 / 70.3-specific,Bike,Tacx Z2 60 min w/ 4x3 min Z3,60,,Tacx Z2 60 min w/ 4x3 min Z3,10' Z1 | 4×(3' Z3 / 3' Z1) | 29' Z1,1
 2027-04-07,Wed,23,Build 2 / 70.3-specific,Run,Brick run 30 min Zone 1.5,30,,"Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Brick run 30 min Zone 1.5",5' Z2 | 10' Z1 | 5' Z2 | 10' Z1,2
@@ -507,7 +507,7 @@ date,day,week,phase,sport,title,duration_min,distance_km,description,segments,sl
 2027-04-08,Thu,23,Build 2 / 70.3-specific,Bike,Tacx Z1-Z2,60,,Tacx Z1-Z2,10' Z1 | 45' Z2 | 5' Z1,2
 2027-04-08,Thu,23,Build 2 / 70.3-specific,Run,Run Zone 1.5 + 4 strides,30,,"Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Run Zone 1.5 + 4 strides",5' Z2 | 10' Z1 | 5' Z2 | 10' Z1,3
 2027-04-09,Fri,23,Build 2 / 70.3-specific,Gym,"Gym Day D (upper focus, light legs)",30,,"Gym Day D (upper focus, light legs) · Big weekend: lighter Fri",30' Z1,1
-2027-04-09,Fri,23,Build 2 / 70.3-specific,Run,Run 40 min Zone 1.5,40,,"Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Run 40 min Zone 1.5 · Big weekend: lighter Fri",5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 5' Z1,2
+2027-04-09,Fri,23,Build 2 / 70.3-specific,Run,Run 25 min Zone 1.5,25,,"Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Run 25 min Zone 1.5 · Big weekend: lighter Fri",5' Z2 | 10' Z1 | 5' Z2 | 5' Z1,2
 2027-04-09,Fri,23,Build 2 / 70.3-specific,Bike,Tacx 40 min Z1 + 3x1 min race effort,40,,Tacx 40 min Z1 + 3x1 min race effort · Big weekend: lighter Fri,10' Z1 | 3×(1' Z3 / 1' Z1) | 25' Z1,3
 2027-04-10,Sat,23,Build 2 / 70.3-specific,Bike,Bike 30.0 km easy Z1-Z2,90,30.0,"Easy spin the day before race rehearsal 1, Z1-Z2 only; check the bike and lay out race kit. Assumes ~20 km/h.",90' Z2,1
 2027-04-10,Sat,23,Build 2 / 70.3-specific,Run,Run – Zone 1.5 (60 min),60,,"Easy Zone 1.5 run. Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Very easy and conversational; walk breaks as needed to stay in the target zone. Weekend running cap: maximum 60 minutes total per day across all run blocks, except actual race events. This session is 60 minutes total (warm-up and cool-down included).",5' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 5' Z1,2
@@ -520,16 +520,16 @@ date,day,week,phase,sport,title,duration_min,distance_km,description,segments,sl
 2027-04-12,Mon,24,Build 2 / 70.3-specific,Gym,Gym Day A full-body hypertrophy,30,,Gym Day A full-body hypertrophy,30' Z1,1
 2027-04-12,Mon,24,Build 2 / 70.3-specific,Bike,Tacx 2 h: 2x30 min 70.3 race effort (Z3) @ 6% Zwift/ERG,120,,Tacx 2 h: 2x30 min 70.3 race effort (Z3) @ 6% Zwift/ERG,10' Z1 | 2×(30' Z3 / 15' Z1) | 35' Z1,2
 2027-04-13,Tue,24,Build 2 / 70.3-specific,Gym,Gym Day B full-body hypertrophy,30,,Gym Day B full-body hypertrophy,30' Z1,1
-2027-04-13,Tue,24,Build 2 / 70.3-specific,Run,Run 90 min: 3x10 min HM pace (Z3) in Z2 run,90,,"Run 90 min: 3x10 min HM pace (Z3) in Z2 run. The long easy finish is Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR.",10' Z1 | 3×(10' Z3 / 5' Z1) | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 5' Z1,2
+2027-04-13,Tue,24,Build 2 / 70.3-specific,Run,Long run 120 min: 2x20 min race pace (fuelled),120,,"Long-run build toward 2:00 for Miami (2:30 target) and the IRONMAN 70.3 Durban run. Durban rehearsal: 2x20 min at race-pace HR with 5 min Z1 between, then a Zone 1.5 easy finish. Race-pace blocks = HR 148-158 bpm (top Z2 / low Z3), your Miami and Durban half-marathon effort; back off if HR goes above 158. Race-day fuelling rehearsal: 45-60 g carbs per hour from your maltodextrin/fructose exercise-carb mix (500-750 ml bottle), sipping every 15-20 min from minute 20 - the same plan as Miami and Durban. Zone 1.5 = alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR.","10' Z1 | 2×(20' Z2 ""Race pace 148-158 bpm"" / 5' Z1) | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 5' Z1 | 5' Z1",2
 2027-04-13,Tue,24,Build 2 / 70.3-specific,Bike,Tacx Z1 spin,30,,Tacx Z1 spin,30' Z1,3
 2027-04-14,Wed,24,Build 2 / 70.3-specific,Bike,"RACE-SIM BRICK: Tacx 90 min, 2x30 min race effort, aero",90,,"RACE-SIM BRICK: Tacx 90 min, 2x30 min race effort, aero",10' Z1 | 2×(30' Z3 / 15' Z1) | 5' Z1,1
 2027-04-14,Wed,24,Build 2 / 70.3-specific,Run,Zone test 25 min,25,,"25-MIN STEP ZONE TEST (no AutoZone link - run it by feel): 5 min in each zone without stopping, Z1 then Z2, Z3, Z4 and Z5. Note your heart rate and pace at the end of each 5-min step to re-check your zones. Stop if any pain at the hernia-repair site. Followed by the 35 min Z1 recovery run.",5' Z1 | 5' Z2 | 5' Z3 | 5' Z4 | 5' Z5,2
 2027-04-14,Wed,24,Build 2 / 70.3-specific,Run,Run 35 min Z1 recovery,35,,Zone 1 recovery run after the zone test: very easy and conversational; walk breaks as needed to stay in Z1.,5' Z1 | 25' Z1 | 5' Z1,3
 2027-04-15,Thu,24,Build 2 / 70.3-specific,Gym,Gym Day C full-body hypertrophy,30,,Gym Day C full-body hypertrophy,30' Z1,1
 2027-04-15,Thu,24,Build 2 / 70.3-specific,Bike,Tacx 75 min: 5x5 min Z4 / 3 min easy,75,,Tacx 75 min: 5x5 min Z4 / 3 min easy,10' Z1 | 5×(5' Z4 / 2' Z1) | 32' Z1,2
-2027-04-15,Thu,24,Build 2 / 70.3-specific,Run,Run 45 min Z2,45,,Run 45 min Z2,10' Z1 | 30' Z2 | 5' Z1,3
+2027-04-15,Thu,24,Build 2 / 70.3-specific,Run,Run 35 min Z2,35,,Run 35 min Z2,10' Z1 | 20' Z2 | 5' Z1,3
 2027-04-16,Fri,24,Build 2 / 70.3-specific,Gym,Gym Day D full-body hypertrophy,30,,Gym Day D full-body hypertrophy,30' Z1,1
-2027-04-16,Fri,24,Build 2 / 70.3-specific,Run,Run 60 min Z2,60,,Run 60 min Z2,10' Z1 | 45' Z2 | 5' Z1,2
+2027-04-16,Fri,24,Build 2 / 70.3-specific,Run,Run 40 min Z2,40,,Run 40 min Z2,10' Z1 | 25' Z2 | 5' Z1,2
 2027-04-16,Fri,24,Build 2 / 70.3-specific,Bike,Tacx Z1 spin,60,,Tacx Z1 spin,60' Z1,3
 2027-04-17,Sat,24,Build 2 / 70.3-specific,Bike,Bike 45.0 km easy Z1-Z2,135,45.0,"Durban build: easy ride, Z1-Z2 (cycling HR runs ~5-10 bpm below running). Practise race nutrition: eat and drink every 20-30 min. Assumes ~20 km/h, so about 135 min. Durban 70.3 build: Sunday long ride builds toward the 90 km race distance (60, 75, 85, 95 km); Saturday stays easy.",135' Z2,1
 2027-04-17,Sat,24,Build 2 / 70.3-specific,Run,Run 60 min Zone 1.5,60,,"Easy Zone 1.5 run; walk breaks as needed to stay in the target zone. Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Reduced for race/recovery week. Weekend running cap: maximum 60 minutes total per day across all run blocks, except actual race events. This session is 60 minutes total (warm-up and cool-down included).",5' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 5' Z1,2
@@ -542,15 +542,15 @@ date,day,week,phase,sport,title,duration_min,distance_km,description,segments,sl
 2027-04-19,Mon,25,Build 2 / 70.3-specific,Gym,Gym Day A full-body hypertrophy,30,,Gym Day A full-body hypertrophy,30' Z1,1
 2027-04-19,Mon,25,Build 2 / 70.3-specific,Bike,Tacx 2 h: 2x30 min 70.3 race effort (Z3) @ 6% Zwift/ERG,120,,Tacx 2 h: 2x30 min 70.3 race effort (Z3) @ 6% Zwift/ERG,10' Z1 | 2×(30' Z3 / 15' Z1) | 35' Z1,2
 2027-04-20,Tue,25,Build 2 / 70.3-specific,Gym,Gym Day B full-body hypertrophy,30,,Gym Day B full-body hypertrophy,30' Z1,1
-2027-04-20,Tue,25,Build 2 / 70.3-specific,Run,Run 90 min: 3x10 min HM pace (Z3) in Z2 run,90,,"Run 90 min: 3x10 min HM pace (Z3) in Z2 run. The long easy finish is Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR.",10' Z1 | 3×(10' Z3 / 5' Z1) | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 5' Z1,2
+2027-04-20,Tue,25,Build 2 / 70.3-specific,Run,Long run 120 min: last 30 min race pace (fuelled),120,,"Long-run build toward 2:00 for Miami (2:30 target) and the IRONMAN 70.3 Durban run. 85 min easy, then the last 30 min at race-pace HR to practise finishing strong when tired (like the Durban run off the bike). Race-pace blocks = HR 148-158 bpm (top Z2 / low Z3), your Miami and Durban half-marathon effort; back off if HR goes above 158. Race-day fuelling rehearsal: 45-60 g carbs per hour from your maltodextrin/fructose exercise-carb mix (500-750 ml bottle), sipping every 15-20 min from minute 20 - the same plan as Miami and Durban. Zone 1.5 = alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR.","10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 30' Z2 ""Race pace 148-158 bpm"" | 5' Z1",2
 2027-04-20,Tue,25,Build 2 / 70.3-specific,Bike,Tacx Z1 spin,30,,Tacx Z1 spin,30' Z1,3
 2027-04-21,Wed,25,Build 2 / 70.3-specific,Bike,"RACE-SIM BRICK: Tacx 90 min, 2x30 min race effort, aero",90,,"RACE-SIM BRICK: Tacx 90 min, 2x30 min race effort, aero",10' Z1 | 2×(30' Z3 / 15' Z1) | 5' Z1,1
 2027-04-21,Wed,25,Build 2 / 70.3-specific,Run,Brick run 60 min: 20 min race pace + 40 Z2,60,,Brick run 60 min: 20 min race pace + 40 Z2,10' Z1 | 45' Z2 | 5' Z1,2
 2027-04-22,Thu,25,Build 2 / 70.3-specific,Gym,Gym Day C full-body hypertrophy,30,,Gym Day C full-body hypertrophy,30' Z1,1
 2027-04-22,Thu,25,Build 2 / 70.3-specific,Bike,Tacx 75 min: 5x5 min Z4 / 3 min easy,75,,Tacx 75 min: 5x5 min Z4 / 3 min easy,10' Z1 | 5×(5' Z4 / 2' Z1) | 32' Z1,2
-2027-04-22,Thu,25,Build 2 / 70.3-specific,Run,Run 45 min Z2,45,,Run 45 min Z2,10' Z1 | 30' Z2 | 5' Z1,3
+2027-04-22,Thu,25,Build 2 / 70.3-specific,Run,Run 35 min Z2,35,,Run 35 min Z2,10' Z1 | 20' Z2 | 5' Z1,3
 2027-04-23,Fri,25,Build 2 / 70.3-specific,Gym,"Gym Day D (upper focus, light legs)",30,,"Gym Day D (upper focus, light legs) · Big weekend: lighter Fri",30' Z1,1
-2027-04-23,Fri,25,Build 2 / 70.3-specific,Run,Run 40 min Zone 1.5,40,,"Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Run 40 min Zone 1.5 · Big weekend: lighter Fri",5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 5' Z1,2
+2027-04-23,Fri,25,Build 2 / 70.3-specific,Run,Run 20 min Zone 1.5,20,,"Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Run 20 min Zone 1.5 · Big weekend: lighter Fri",5' Z2 | 10' Z1 | 5' Z2,2
 2027-04-23,Fri,25,Build 2 / 70.3-specific,Bike,Tacx 40 min Z1 + 3x1 min race effort,40,,Tacx 40 min Z1 + 3x1 min race effort · Big weekend: lighter Fri,10' Z1 | 3×(1' Z3 / 1' Z1) | 25' Z1,3
 2027-04-24,Sat,25,Build 2 / 70.3-specific,Bike,Bike 30.0 km easy Z1-Z2,90,30.0,"Easy spin the day before race rehearsal 2, Z1-Z2 only. Assumes ~20 km/h.",90' Z2,1
 2027-04-24,Sat,25,Build 2 / 70.3-specific,Run,Run – Zone 1.5 (60 min),60,,"Easy Zone 1.5 run. Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Very easy and conversational; walk breaks as needed to stay in the target zone. Weekend running cap: maximum 60 minutes total per day across all run blocks, except actual race events. This session is 60 minutes total (warm-up and cool-down included).",5' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 5' Z1,2
@@ -563,15 +563,15 @@ date,day,week,phase,sport,title,duration_min,distance_km,description,segments,sl
 2027-04-26,Mon,26,Build 2 / 70.3-specific,Gym,Gym Day A full-body hypertrophy,30,,Gym Day A full-body hypertrophy,30' Z1,1
 2027-04-26,Mon,26,Build 2 / 70.3-specific,Bike,Tacx 2 h: 2x30 min 70.3 race effort (Z3) @ 6% Zwift/ERG,120,,Tacx 2 h: 2x30 min 70.3 race effort (Z3) @ 6% Zwift/ERG,10' Z1 | 2×(30' Z3 / 15' Z1) | 35' Z1,2
 2027-04-27,Tue,26,Build 2 / 70.3-specific,Gym,Gym Day B full-body hypertrophy,30,,Gym Day B full-body hypertrophy,30' Z1,1
-2027-04-27,Tue,26,Build 2 / 70.3-specific,Run,Run 90 min: 3x10 min HM pace (Z3) in Z2 run,90,,"Run 90 min: 3x10 min HM pace (Z3) in Z2 run. The long easy finish is Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR.",10' Z1 | 3×(10' Z3 / 5' Z1) | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 5' Z1,2
+2027-04-27,Tue,26,Build 2 / 70.3-specific,Run,Long run 120 min: 3x15 min race pace (fuelled),120,,"Peak long run. 3x15 min at race-pace HR with 5 min Z1 between, then a Zone 1.5 easy finish. Wear your race kit and shoes. Race-pace blocks = HR 148-158 bpm (top Z2 / low Z3), your Miami and Durban half-marathon effort; back off if HR goes above 158. Race-day fuelling rehearsal: 45-60 g carbs per hour from your maltodextrin/fructose exercise-carb mix (500-750 ml bottle), sipping every 15-20 min from minute 20 - the same plan as Miami and Durban. Zone 1.5 = alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR.","10' Z1 | 3×(15' Z2 ""Race pace 148-158 bpm"" / 5' Z1) | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z1",2
 2027-04-27,Tue,26,Build 2 / 70.3-specific,Bike,Tacx Z1 spin,30,,Tacx Z1 spin,30' Z1,3
 2027-04-28,Wed,26,Build 2 / 70.3-specific,Bike,"RACE-SIM BRICK: Tacx 90 min, 2x30 min race effort, aero",90,,"RACE-SIM BRICK: Tacx 90 min, 2x30 min race effort, aero",10' Z1 | 2×(30' Z3 / 15' Z1) | 5' Z1,1
 2027-04-28,Wed,26,Build 2 / 70.3-specific,Run,Brick run 60 min: 20 min race pace + 40 Z2,60,,Brick run 60 min: 20 min race pace + 40 Z2,10' Z1 | 45' Z2 | 5' Z1,2
 2027-04-29,Thu,26,Build 2 / 70.3-specific,Gym,Gym Day C full-body hypertrophy,30,,Gym Day C full-body hypertrophy,30' Z1,1
 2027-04-29,Thu,26,Build 2 / 70.3-specific,Bike,Tacx 75 min: 5x5 min Z4 / 3 min easy,75,,Tacx 75 min: 5x5 min Z4 / 3 min easy,10' Z1 | 5×(5' Z4 / 2' Z1) | 32' Z1,2
-2027-04-29,Thu,26,Build 2 / 70.3-specific,Run,Run 45 min Z2,45,,Run 45 min Z2,10' Z1 | 30' Z2 | 5' Z1,3
+2027-04-29,Thu,26,Build 2 / 70.3-specific,Run,Run 35 min Z2,35,,Run 35 min Z2,10' Z1 | 20' Z2 | 5' Z1,3
 2027-04-30,Fri,26,Build 2 / 70.3-specific,Gym,Gym Day D full-body hypertrophy,30,,Gym Day D full-body hypertrophy,30' Z1,1
-2027-04-30,Fri,26,Build 2 / 70.3-specific,Run,Run 60 min Z2,60,,Run 60 min Z2,10' Z1 | 45' Z2 | 5' Z1,2
+2027-04-30,Fri,26,Build 2 / 70.3-specific,Run,Run 40 min Z2,40,,Run 40 min Z2,10' Z1 | 25' Z2 | 5' Z1,2
 2027-04-30,Fri,26,Build 2 / 70.3-specific,Bike,Tacx Z1 spin,60,,Tacx Z1 spin,60' Z1,3
 2027-05-01,Sat,26,Build 2 / 70.3-specific,Bike,Bike multi-brick 3 x 30 min Z2-Z3,90,34.5,"MULTI-BLOCK BRICK (Sat 1 May): 3 rounds of [bike 30 min at steady Z2-low Z3 race effort, then run 15 min]. Quick transitions every round (shoes, helmet, bottle) - this is transition practice too. About 34.5 km of riding. Race nutrition: eat/drink every 20-30 min (60-80 g carbs/h) and use your sweat-test numbers for fluid + sodium.",3×(30' Z3),1
 2027-05-01,Sat,26,Build 2 / 70.3-specific,Run,Run 60 min total: multi-brick 3 x 15 min + 15 min Zone 1.5,60,,"MULTI-BLOCK BRICK: the run parts of today's 3 x [bike 30 min + run 15 min]. Run each 15 min at 70.3 run effort (Z2-low Z3, about half-marathon effort), straight off the bike. Weekend running cap: maximum 60 minutes total per day across all run blocks, except actual race events. This session is 60 minutes total (warm-up and cool-down included). The long easy finish is Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR.",3×(15' Z3) | 5' Z2 | 10' Z1,2
@@ -583,16 +583,15 @@ date,day,week,phase,sport,title,duration_min,distance_km,description,segments,sl
 2027-05-03,Mon,27,Build 2 / 70.3-specific,Gym,Gym Day A - 2 sets/exercise (deload),30,,Gym Day A - 2 sets/exercise (deload),30' Z1,1
 2027-05-03,Mon,27,Build 2 / 70.3-specific,Bike,Tacx Z2 steady (recovery wk),90,,Tacx Z2 steady (recovery wk),10' Z1 | 75' Z2 | 5' Z1,2
 2027-05-04,Tue,27,Build 2 / 70.3-specific,Gym,Gym Day B - 2 sets/exercise (deload),30,,Gym Day B - 2 sets/exercise (deload),30' Z1,1
-2027-05-04,Tue,27,Build 2 / 70.3-specific,Run,Run Z1-Z2 easy,60,,Run Z1-Z2 easy,10' Z1 | 45' Z2 | 5' Z1,2
+2027-05-04,Tue,27,Build 2 / 70.3-specific,Run,Run 75 min Zone 1.5,75,,"Down week: 75 min easy. Zone 1.5 = alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR.",5' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 5' Z1,2
 2027-05-04,Tue,27,Build 2 / 70.3-specific,Bike,Tacx Z1 spin,30,,Tacx Z1 spin,30' Z1,3
 2027-05-05,Wed,27,Build 2 / 70.3-specific,Bike,Tacx Z2 60 min w/ 4x3 min Z3,60,,Tacx Z2 60 min w/ 4x3 min Z3,10' Z1 | 4×(3' Z3 / 3' Z1) | 29' Z1,1
-2027-05-05,Wed,27,Build 2 / 70.3-specific,Run,Zone test 25 min,25,,"25-MIN STEP ZONE TEST (no AutoZone link - run it by feel): 5 min in each zone without stopping, Z1 then Z2, Z3, Z4 and Z5. Note your heart rate and pace at the end of each 5-min step to re-check your zones. Stop if any pain at the hernia-repair site. Followed by the 5 min Z1 recovery run.",5' Z1 | 5' Z2 | 5' Z3 | 5' Z4 | 5' Z5,2
-2027-05-05,Wed,27,Build 2 / 70.3-specific,Run,Run 5 min Z1 recovery,5,,Zone 1 recovery run after the zone test: very easy and conversational; walk breaks as needed to stay in Z1.,5' Z1,3
+2027-05-05,Wed,27,Build 2 / 70.3-specific,Run,Zone test 25 min,25,,"25-MIN STEP ZONE TEST (no AutoZone link - run it by feel): 5 min in each zone without stopping, Z1 then Z2, Z3, Z4 and Z5. Note your heart rate and pace at the end of each 5-min step to re-check your zones. Stop if any pain at the hernia-repair site.",5' Z1 | 5' Z2 | 5' Z3 | 5' Z4 | 5' Z5,2
 2027-05-06,Thu,27,Build 2 / 70.3-specific,Gym,Gym Day C - 2 sets/exercise (deload),30,,Gym Day C - 2 sets/exercise (deload),30' Z1,1
 2027-05-06,Thu,27,Build 2 / 70.3-specific,Bike,Tacx Z1-Z2,60,,Tacx Z1-Z2,10' Z1 | 45' Z2 | 5' Z1,2
 2027-05-06,Thu,27,Build 2 / 70.3-specific,Run,Run Zone 1.5 + 4 strides,30,,"Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Run Zone 1.5 + 4 strides",5' Z2 | 10' Z1 | 5' Z2 | 10' Z1,3
 2027-05-07,Fri,27,Build 2 / 70.3-specific,Gym,"Gym Day D (upper focus, light legs)",30,,"Gym Day D (upper focus, light legs) · Big weekend: lighter Fri",30' Z1,1
-2027-05-07,Fri,27,Build 2 / 70.3-specific,Run,Run 40 min Zone 1.5,40,,"Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Run 40 min Zone 1.5 · Big weekend: lighter Fri",5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 5' Z1,2
+2027-05-07,Fri,27,Build 2 / 70.3-specific,Run,Run 30 min Zone 1.5,30,,"Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Run 30 min Zone 1.5 · Big weekend: lighter Fri",5' Z2 | 10' Z1 | 5' Z2 | 10' Z1,2
 2027-05-07,Fri,27,Build 2 / 70.3-specific,Bike,Tacx 40 min Z1 + 3x1 min race effort,40,,Tacx 40 min Z1 + 3x1 min race effort · Big weekend: lighter Fri,10' Z1 | 3×(1' Z3 / 1' Z1) | 25' Z1,3
 2027-05-08,Sat,27,Build 2 / 70.3-specific,Bike,Bike 30.0 km easy Z1-Z2,90,30.0,"Easy spin the day before the dress rehearsal, Z1-Z2 only; full kit and nutrition check. Assumes ~20 km/h.",90' Z2,1
 2027-05-08,Sat,27,Build 2 / 70.3-specific,Run,Run – Zone 1.5 (60 min),60,,"Easy Zone 1.5 run. Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR. Very easy and conversational; walk breaks as needed to stay in the target zone. Weekend running cap: maximum 60 minutes total per day across all run blocks, except actual race events. This session is 60 minutes total (warm-up and cool-down included).",5' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 5' Z1,2
@@ -604,7 +603,7 @@ date,day,week,phase,sport,title,duration_min,distance_km,description,segments,sl
 2027-05-10,Mon,28,Peak + Miami,Bike,MyWhoosh ramp FTP test,25,,"Indoor MyWhoosh ramp FTP test, 25 min including warm-up and cool-down. Easy Z1 warm-up, then the MyWhoosh ramp (power rises each minute until you cannot hold it; the stepped zones are a guide, stop at failure). Easy Z1 spin-down after. Do this before the hour of Z1 spinning. If the FTP comes out high and later Z2 rides feel too hard, knock it down about 5%.",8' Z1 | 3' Z2 | 3' Z3 | 3' Z4 | 3' Z5 | 5' Z1,2
 2027-05-10,Mon,28,Peak + Miami,Bike,Tacx Z1 spin,60,,"Easy Zone 1 spin after the MyWhoosh ramp test, staying under 133 bpm (max HR 205), even if that means only 15-16 km/h. This replaces the usual Monday bike ride.",60' Z1,3
 2027-05-11,Tue,28,Peak + Miami,Gym,Gym Day B full-body hypertrophy,30,,Gym Day B full-body hypertrophy,30' Z1,1
-2027-05-11,Tue,28,Peak + Miami,Run,Run 90 min: 3x10 min HM pace (Z3) in Z2 run,90,,"Run 90 min: 3x10 min HM pace (Z3) in Z2 run. The long easy finish is Zone 1.5: alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR.",10' Z1 | 3×(10' Z3 / 5' Z1) | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 5' Z1,2
+2027-05-11,Tue,28,Peak + Miami,Run,Run 80 min: 2x8 min race pace,80,,"Lighter long run, 7 days before Miami. Easy, with 2x8 min at race-pace HR, then a Zone 1.5 easy finish. Race-pace blocks = HR 148-158 bpm (top Z2 / low Z3), your Miami and Durban half-marathon effort; back off if HR goes above 158. Take a few sips of your carb mix to rehearse race morning. Zone 1.5 = alternating 5 min Z2 / 10 min Z1 blocks, because the app sets pace from HR.","10' Z1 | 2×(8' Z2 ""Race pace 148-158 bpm"" / 4' Z1) | 5' Z2 | 10' Z1 | 5' Z2 | 10' Z1 | 5' Z2 | 6' Z1 | 5' Z1",2
 2027-05-11,Tue,28,Peak + Miami,Bike,Tacx Z1 spin,30,,Tacx Z1 spin,30' Z1,3
 2027-05-12,Wed,28,Peak + Miami,Bike,"RACE-SIM BRICK: Tacx 90 min, 2x30 min race effort, aero",90,,"RACE-SIM BRICK: Tacx 90 min, 2x30 min race effort, aero",10' Z1 | 2×(30' Z3 / 15' Z1) | 5' Z1,1
 2027-05-12,Wed,28,Peak + Miami,Run,Brick run 60 min: 20 min race pace + 40 Z2,60,,Brick run 60 min: 20 min race pace + 40 Z2,10' Z1 | 45' Z2 | 5' Z1,2
